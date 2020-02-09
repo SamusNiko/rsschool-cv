@@ -1,1 +1,1 @@
- https://SamusNiko.github.io/rsschool-cv/cv
+ https://samusniko.github.io/rsschool-cv/cv
